@@ -15,7 +15,7 @@
 ⚙️ Ask me about Design<br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arasu)
+[![LinkedIn](https://www.linkedin.com/in/arasu-murugan-665568259/)
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&height=40)
